@@ -8,7 +8,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/nabendu" alt="Leet code rating" />
   </a>
   <a href="https://www.stopstalk.com/user/profile/Nabendu">
-    <img src="https://cp-logo.vercel.app/leetcode/nabendu" alt="Leet code rating" />
+    <img src="https://www.stopstalk.com/stopstalk/static/images/StopStalk.png?_rev=20201225170526" alt=Stop stock profile" />
   </a>
   
   <a href="https://codechef.com/nabendu/">
