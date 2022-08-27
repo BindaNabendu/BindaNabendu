@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://codechef.com/nabendu/">
-    <img src="	https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef rating" />
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="codechef rating" />
   </a>
 </p>
 
