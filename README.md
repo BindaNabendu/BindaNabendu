@@ -4,7 +4,7 @@
   <a href="https://codeforces.com/profile/nabendu">
     <img src="https://raw.githubusercontent.com/BindaNabendu/cf-stats/main/output/max_rating.svg" alt="Codeforces max rating" />
   </a>
-  <a href="https://leetcode.com/naebndu/">
+  <a href="https://leetcode.com/Nabendu/">
     <img src="https://cp-logo.vercel.app/leetcode/nabendu" alt="Leet code rating" />
   </a>
   <a href="https://codechef.com/nabendu/">
