@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nabendu Bikash Binda</h1>
+<h1 align="left">Hi ✋, I'm Nabendu Bikash Binda</h1>
 
 <p align="left">
   <a href="https://codeforces.com/profile/nabendu">
@@ -13,7 +13,7 @@
 </p>
 
 #### Now
-- 🌱 I'm currently learning *Spring* for deep understanding
+- ✍️ I'm currently learning *Spring* for deep understanding
 - :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 
