@@ -7,6 +7,10 @@
   <a href="https://leetcode.com/Nabendu/">
     <img src="https://cp-logo.vercel.app/leetcode/nabendu" alt="Leet code rating" />
   </a>
+  <a href="https://www.stopstalk.com/user/profile/Nabendu">
+    <img src="https://cp-logo.vercel.app/leetcode/nabendu" alt="Leet code rating" />
+  </a>
+  
   <a href="https://codechef.com/nabendu/">
     <img src="https://cp-logo.vercel.app/codechef/nabendu" alt="codechef rating" />
   </a>
