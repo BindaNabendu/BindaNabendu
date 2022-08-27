@@ -12,7 +12,7 @@
   </a>
   
   <a href="https://codechef.com/nabendu/">
-    <img src="https://cp-logo.vercel.app/codechef/nabendu" alt="codechef rating" />
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="codechef rating" />
   </a>
 </p>
 
