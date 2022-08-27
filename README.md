@@ -1,4 +1,4 @@
-<h1 align="left">Hi ✋, I'm Nabendu Bikash Binda</h1>
+<h1 align="left">Hi, I'm Nabendu Bikash Binda</h1>
 
 <p align="left">
   <a href="https://codeforces.com/profile/nabendu">
