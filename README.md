@@ -13,7 +13,8 @@
 </p>
 
 #### Now
-- ✍️ I'm currently learning *Spring* for deep understanding
+- ✍️ I'm currently learning More Advanced Algorithm & solve more problem to Improve problem solving skill
+- ✍️ I'm currently learning *Spring* for better understanding how its internal structure works
 - :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 
