@@ -23,7 +23,7 @@
 - ⚙️ I use daily: .c, .cpp, .java
 - 🌍 I'm mostly active within the *Programming Community*
 - 💬 Ping me about *C++*, *Java*, *Spring boot*, *RestAPIs*, *MySQL*
-- 📫 Reach me: [https://www.linkedin.com/in/binda-nabendu/](https://www.linkedin.com/in/binda-nabendu/)
+- 📫 Reach me: [https://www.linkedin.com/in/binda-nabendu](https://www.linkedin.com/in/binda-nabendu)
 - 📝 Checkout my [Resume]
 
 #### My Current Stack
