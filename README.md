@@ -15,16 +15,17 @@
 #### Now
 - ✍️ I'm currently learning More Advanced Algorithm & solve more problem to Improve problem solving skill
 - ✍️ I'm currently learning *Spring* for better understanding how its internal structure works
+- ✍️ I'm also currently work with *Angular*
 - :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 
 #### Bio
 - 👨‍🎓 Studying *CSE* at *Southeast University*
-- ⚙️ I use daily: .c, .cpp, .java
+- ⚙️ I use daily: .c, .cpp, .java, .javascript
 - 🌍 I'm mostly active within the *Programming Community*
-- 💬 Ping me about *C++*, *Java*, *Spring boot*, *RestAPIs*, *MySQL*
+- 💬 Ping me about *C++*, *Java*, *Spring boot*,*Angular*, *RestAPIs*, *MySQL*
 - 📫 Reach me: [https://www.linkedin.com/in/binda-nabendu](https://www.linkedin.com/in/binda-nabendu)
-- 📝 Checkout my [Resume]
+- 📝 Checkout my resume [https://flowcv.com/resume/qfa7qio6fm]
 
 #### My Current Stack
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png" width="40" height="40"/> </a> </p>
